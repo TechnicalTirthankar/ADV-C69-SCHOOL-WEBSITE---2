@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+.nav navbar-nav{
+position: sticky;
+top: 0;
+z-index: 99999;
+}
+
+#campus_life{
+    color: white;
+}
